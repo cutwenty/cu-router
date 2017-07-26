@@ -24,7 +24,6 @@
 
   /**
    * 状态栈
-   * stateIndex：stateStack是
    */
   var stateStack = [];
   var stateIndex = -1;
